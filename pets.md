@@ -1,3 +1,3 @@
 #Pets
 
-I love rabbits! They taste like chicken.
+Turtles are unequivocally the best pets.
