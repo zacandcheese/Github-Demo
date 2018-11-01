@@ -1,3 +1,3 @@
 #Pets
 
-Cats are unequivocally the best pets.
+Dogs are unequivocally the best pets.
